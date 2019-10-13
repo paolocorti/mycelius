@@ -1,0 +1,19 @@
+{
+  "name": "mycelius",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode=development --env=dev --watch"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dmx": "^0.2.2",
+    "liveosc": "^0.0.2",
+    "ws": "^7.1.2"
+  }
+}
